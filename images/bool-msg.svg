@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="34px" viewBox="0 0 220 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>full speech</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#7E828B" offset="0%"></stop>
+            <stop stop-color="#999EAA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-77.000000, -95.000000)">
+            <g id="full-speech" transform="translate(77.000000, 95.000000)">
+                <g id="Received-Message" transform="translate(25.000000, 0.000000)">
+                    <path d="M6.06122449,16.5 C6.06122449,16.8465 6.09405612,24.4995 6.09405612,24.4995 C6.09405612,28.6985 3.59784184,32.3115 0,33.991 C4.69896429,33.9055 9.0822398,32.5495 12.8184796,30.2555 C15.8258571,32.5985 19.6161429,33.9995 23.7397959,33.9995 C33.5034184,33.9995 41.4183673,26.1645 41.4183673,16.4995 C41.4183673,6.8345 33.5034184,0 23.7397959,0 C13.9761735,7.10542736e-15 6.06122449,6.835 6.06122449,16.5 Z" id="Message-Tail" fill="#E5E5EA"></path>
+                    <rect id="Message-Shape" fill="#E5E5EA" x="6" y="0" width="189" height="34" rx="17"></rect>
+                    <text id="booling-is-a-state-o" fill="#231F20" font-family="Helvetica, sans-serif" font-size="14" font-weight="normal" letter-spacing="0.289999992">
+                        <tspan x="20" y="22">booling is a state of mind</tspan>
+                    </text>
+                </g>
+                <g id="bubble" transform="translate(0.000000, 9.000000)">
+                    <ellipse id="Oval" fill="url(#linearGradient-1)" cx="12.2220971" cy="12.4721655" rx="12.2220971" ry="12.4721655"></ellipse>
+                    <text id="SP" font-family="Nunito-Bold, Nunito, Helvetica, sans-serif" font-size="10" font-weight="bold" letter-spacing="0.424615324" fill="#FFFFFF">
+                        <tspan x="6.08538468" y="16">SP</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
